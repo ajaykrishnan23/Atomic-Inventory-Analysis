@@ -53,7 +53,6 @@
 
 4. **Retry Mechanism**:
    - If an error occurs during the execution of the generated code, the script retries up to 10 times.
-   - Each retry provides the LLM with feedback on the error, enabling it to refine and regenerate the code.
 
 
 
@@ -68,7 +67,6 @@
 
 3. **Error Resilience**:
    - Incorporates a retry mechanism to handle and recover from errors during code generation and execution.
-   - Provides feedback loops to the LLM, improving its ability to adapt to unexpected scenarios.
 
 4. **Customizable Workflow**:
    - The script is modular and built natively, allowing for easy customization of prompts, directory structures, and retry logic.
