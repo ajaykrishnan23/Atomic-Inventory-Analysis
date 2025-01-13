@@ -133,7 +133,7 @@ This script performs automated analysis of CSV files in multiple folders, determ
 # Setup and Usage
 
 ## Installation
-
+Make sure the environment variable OPENAI_API_KEY has been set.
 ```bash
 # Clone the repository and navigate to directory
 git clone 
