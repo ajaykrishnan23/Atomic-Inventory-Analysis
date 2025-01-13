@@ -1,0 +1,3527 @@
+Sheet: INVENTORY SNAPSHOT
+Number of tables: 7
+**Sheet: INVENTORY SNAPSHOT**
+  **Table 1:**
+| 0                   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   | 15   | 16         |
+|:--------------------|:----|:----|:----|:----|:----|:----|:----|:----|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----------|
+| 2025-01-10 00:00:00 |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      | 45 = antsy |
+
+        - **Column Name**: 2025-01-10 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 45 = antsy
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: INVENTORY SNAPSHOT**
+  **Table 1:**
+| 0                   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   | 15   | 16         |
+|:--------------------|:----|:----|:----|:----|:----|:----|:----|:----|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----------|
+| 2025-01-10 00:00:00 |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      | 45 = antsy |
+
+        - **Column Name**: 2025-01-10 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 45 = antsy
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0                                    | 1          | 2         | 3         | 4       | 5       | 6              | 7     | 8                       | 9         | 10   | 11             | 12              | 13   | 14         |    15 | 16                 | 17               |
+|:-------------------------------------|:-----------|:----------|:----------|:--------|:--------|:---------------|:------|:------------------------|:----------|:-----|:---------------|:----------------|:-----|:-----------|------:|:-------------------|:-----------------|
+| SKU Description                      | Ref Code   | Item Code | Item Code | Comarco | Lineage | TTL in storage | Dot   | Total On Hand Inventory | available |      | Open PO to Dot | Open Comarco PO |      |            |   nan | Upcoming Dot Total | Upcoming Dot DOH |
+| CP Big Mozz Sticks                   | FS-STICKS  | 20005.0   | 20005-1   | -184    | 14077   | 13893          | 8651  | 22544                   |           |      | 3460           | 0               |      | FS-STICKS  | 20005 | 12111              | 154.05           |
+| CP Mozz Nuggets                      | FS-NUGGS   | 10150.0   | 10150-1   | -514    | 11174   | 10660          | 11272 | 21932                   |           |      | 2360           | 0               |      | FS-NUGGS   | 10150 | 13632              | 33.2             |
+| CP Retail Big Mozz Sticks - Original | RTL-STICKS | 60050.0   | 60050-1   | 47      | 4420    | 4467           | 6030  | 10497                   |           |      | 4785           | 0               |      | RTL-STICKS | 60050 | 10815              | 45               |
+| CP Retail Mozz Nuggets - Original    | RTL-NUGGS  | 60056.0   | 60056.0   | 0       | 5147    | 5147           | 788   | 5935                    |           |      | 0              | 0               |      | RTL-NUGGS  | 60056 | 788                | 40.81            |
+| Retail Spicy                         | RTL-SPICY  | 60052.0   | 60052.0   | 1       | 1404    | 1405           | 123   | 1528                    |           |      | 0              |                 |      |            |   nan |                    |                  |
+
+        - **Column Name**: SKU Description
+        - **Formula**: ='Current Inventory'!B20(CP Big Mozz Sticks)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Ref Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Comarco
+        - **Formula**: ='Current Inventory'!D6(Item Code)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Lineage
+        - **Formula**: ='Current Inventory'!D20(20005-1)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: TTL in storage
+        - **Formula**: =F5(Comarco)+G5(Lineage)
+        - **Dependencies**: None
+                
+        - **Column Name**: Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!R:R)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Total On Hand Inventory
+        - **Formula**: =sum(F5(Comarco):G5(Lineage),I5(Dot))
+        - **Dependencies**: None
+                
+        - **Column Name**: available 
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Open PO to Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!M:M)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Open Comarco PO
+        - **Formula**: =sumifs('Inventory Detail'!K:K,'Inventory Detail'!A:A,"Production",'Inventory Detail'!O:O,E5(Item Code),'Inventory Detail'!C:C,">="&$C$2,'Inventory Detail'!I:I,"CP"&"*")
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: FS-STICKS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot Total
+        - **Formula**: =M5(Open PO to Dot)+I5(Dot)
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot DOH
+        - **Formula**: ='INPUT -> DOT Inventory Report'!T8(Unknown)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+**Sheet: INVENTORY SNAPSHOT**
+  **Table 1:**
+| 0                   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   | 15   | 16         |
+|:--------------------|:----|:----|:----|:----|:----|:----|:----|:----|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----------|
+| 2025-01-10 00:00:00 |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      | 45 = antsy |
+
+        - **Column Name**: 2025-01-10 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 45 = antsy
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0                                    | 1          | 2         | 3         | 4       | 5       | 6              | 7     | 8                       | 9         | 10   | 11             | 12              | 13   | 14         |    15 | 16                 | 17               |
+|:-------------------------------------|:-----------|:----------|:----------|:--------|:--------|:---------------|:------|:------------------------|:----------|:-----|:---------------|:----------------|:-----|:-----------|------:|:-------------------|:-----------------|
+| SKU Description                      | Ref Code   | Item Code | Item Code | Comarco | Lineage | TTL in storage | Dot   | Total On Hand Inventory | available |      | Open PO to Dot | Open Comarco PO |      |            |   nan | Upcoming Dot Total | Upcoming Dot DOH |
+| CP Big Mozz Sticks                   | FS-STICKS  | 20005.0   | 20005-1   | -184    | 14077   | 13893          | 8651  | 22544                   |           |      | 3460           | 0               |      | FS-STICKS  | 20005 | 12111              | 154.05           |
+| CP Mozz Nuggets                      | FS-NUGGS   | 10150.0   | 10150-1   | -514    | 11174   | 10660          | 11272 | 21932                   |           |      | 2360           | 0               |      | FS-NUGGS   | 10150 | 13632              | 33.2             |
+| CP Retail Big Mozz Sticks - Original | RTL-STICKS | 60050.0   | 60050-1   | 47      | 4420    | 4467           | 6030  | 10497                   |           |      | 4785           | 0               |      | RTL-STICKS | 60050 | 10815              | 45               |
+| CP Retail Mozz Nuggets - Original    | RTL-NUGGS  | 60056.0   | 60056.0   | 0       | 5147    | 5147           | 788   | 5935                    |           |      | 0              | 0               |      | RTL-NUGGS  | 60056 | 788                | 40.81            |
+| Retail Spicy                         | RTL-SPICY  | 60052.0   | 60052.0   | 1       | 1404    | 1405           | 123   | 1528                    |           |      | 0              |                 |      |            |   nan |                    |                  |
+
+        - **Column Name**: SKU Description
+        - **Formula**: ='Current Inventory'!B20(CP Big Mozz Sticks)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Ref Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Comarco
+        - **Formula**: ='Current Inventory'!D6(Item Code)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Lineage
+        - **Formula**: ='Current Inventory'!D20(20005-1)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: TTL in storage
+        - **Formula**: =F5(Comarco)+G5(Lineage)
+        - **Dependencies**: None
+                
+        - **Column Name**: Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!R:R)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Total On Hand Inventory
+        - **Formula**: =sum(F5(Comarco):G5(Lineage),I5(Dot))
+        - **Dependencies**: None
+                
+        - **Column Name**: available 
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Open PO to Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!M:M)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Open Comarco PO
+        - **Formula**: =sumifs('Inventory Detail'!K:K,'Inventory Detail'!A:A,"Production",'Inventory Detail'!O:O,E5(Item Code),'Inventory Detail'!C:C,">="&$C$2,'Inventory Detail'!I:I,"CP"&"*")
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: FS-STICKS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot Total
+        - **Formula**: =M5(Open PO to Dot)+I5(Dot)
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot DOH
+        - **Formula**: ='INPUT -> DOT Inventory Report'!T8(Unknown)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                  **Table 3:**
+| 0             | 1   | 2   | 3   |        4 |       5 |       6 |       7 |      8 | 9   | 10   |      11 |
+|:--------------|:----|:----|:----|---------:|--------:|--------:|--------:|-------:|:----|:-----|--------:|
+| pallet spaces |     |     |     | -5.06197 | 281.804 | 276.742 | 199.378 | 476.12 |     |      | 72.1218 |
+
+        - **Column Name**: pallet spaces
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(F7(Comarco):F8(Comarco))/180))+((sum(F5(Comarco):F6(Comarco),F11(Comarco):F13(Comarco))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(G7(Lineage):G8(Lineage))/180))+((sum(G5(Lineage):G6(Lineage),G11(Lineage):G13(Lineage))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(H7(TTL in storage):H8(TTL in storage))/180))+((sum(H5(TTL in storage):H6(TTL in storage),H11(TTL in storage):H13(TTL in storage))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(I7(Dot):I8(Dot))/180))+((sum(I5(Dot):I6(Dot),I11(Dot):I13(Dot))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(J7(Total On Hand Inventory):J8(Total On Hand Inventory))/180))+((sum(J5(Total On Hand Inventory):J6(Total On Hand Inventory),J11(Total On Hand Inventory):J13(Total On Hand Inventory))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(M7(Open PO to Dot):M8(Open PO to Dot))/180))+((sum(M5(Open PO to Dot):M6(Open PO to Dot),M11(Open PO to Dot):M13(Open PO to Dot))/130))
+        - **Dependencies**: None
+                
+**Sheet: INVENTORY SNAPSHOT**
+  **Table 1:**
+| 0                   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   | 15   | 16         |
+|:--------------------|:----|:----|:----|:----|:----|:----|:----|:----|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----------|
+| 2025-01-10 00:00:00 |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      | 45 = antsy |
+
+        - **Column Name**: 2025-01-10 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 45 = antsy
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0                                    | 1          | 2         | 3         | 4       | 5       | 6              | 7     | 8                       | 9         | 10   | 11             | 12              | 13   | 14         |    15 | 16                 | 17               |
+|:-------------------------------------|:-----------|:----------|:----------|:--------|:--------|:---------------|:------|:------------------------|:----------|:-----|:---------------|:----------------|:-----|:-----------|------:|:-------------------|:-----------------|
+| SKU Description                      | Ref Code   | Item Code | Item Code | Comarco | Lineage | TTL in storage | Dot   | Total On Hand Inventory | available |      | Open PO to Dot | Open Comarco PO |      |            |   nan | Upcoming Dot Total | Upcoming Dot DOH |
+| CP Big Mozz Sticks                   | FS-STICKS  | 20005.0   | 20005-1   | -184    | 14077   | 13893          | 8651  | 22544                   |           |      | 3460           | 0               |      | FS-STICKS  | 20005 | 12111              | 154.05           |
+| CP Mozz Nuggets                      | FS-NUGGS   | 10150.0   | 10150-1   | -514    | 11174   | 10660          | 11272 | 21932                   |           |      | 2360           | 0               |      | FS-NUGGS   | 10150 | 13632              | 33.2             |
+| CP Retail Big Mozz Sticks - Original | RTL-STICKS | 60050.0   | 60050-1   | 47      | 4420    | 4467           | 6030  | 10497                   |           |      | 4785           | 0               |      | RTL-STICKS | 60050 | 10815              | 45               |
+| CP Retail Mozz Nuggets - Original    | RTL-NUGGS  | 60056.0   | 60056.0   | 0       | 5147    | 5147           | 788   | 5935                    |           |      | 0              | 0               |      | RTL-NUGGS  | 60056 | 788                | 40.81            |
+| Retail Spicy                         | RTL-SPICY  | 60052.0   | 60052.0   | 1       | 1404    | 1405           | 123   | 1528                    |           |      | 0              |                 |      |            |   nan |                    |                  |
+
+        - **Column Name**: SKU Description
+        - **Formula**: ='Current Inventory'!B20(CP Big Mozz Sticks)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Ref Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Comarco
+        - **Formula**: ='Current Inventory'!D6(Item Code)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Lineage
+        - **Formula**: ='Current Inventory'!D20(20005-1)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: TTL in storage
+        - **Formula**: =F5(Comarco)+G5(Lineage)
+        - **Dependencies**: None
+                
+        - **Column Name**: Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!R:R)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Total On Hand Inventory
+        - **Formula**: =sum(F5(Comarco):G5(Lineage),I5(Dot))
+        - **Dependencies**: None
+                
+        - **Column Name**: available 
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Open PO to Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!M:M)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Open Comarco PO
+        - **Formula**: =sumifs('Inventory Detail'!K:K,'Inventory Detail'!A:A,"Production",'Inventory Detail'!O:O,E5(Item Code),'Inventory Detail'!C:C,">="&$C$2,'Inventory Detail'!I:I,"CP"&"*")
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: FS-STICKS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot Total
+        - **Formula**: =M5(Open PO to Dot)+I5(Dot)
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot DOH
+        - **Formula**: ='INPUT -> DOT Inventory Report'!T8(Unknown)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                  **Table 3:**
+| 0             | 1   | 2   | 3   |        4 |       5 |       6 |       7 |      8 | 9   | 10   |      11 |
+|:--------------|:----|:----|:----|---------:|--------:|--------:|--------:|-------:|:----|:-----|--------:|
+| pallet spaces |     |     |     | -5.06197 | 281.804 | 276.742 | 199.378 | 476.12 |     |      | 72.1218 |
+
+        - **Column Name**: pallet spaces
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(F7(Comarco):F8(Comarco))/180))+((sum(F5(Comarco):F6(Comarco),F11(Comarco):F13(Comarco))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(G7(Lineage):G8(Lineage))/180))+((sum(G5(Lineage):G6(Lineage),G11(Lineage):G13(Lineage))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(H7(TTL in storage):H8(TTL in storage))/180))+((sum(H5(TTL in storage):H6(TTL in storage),H11(TTL in storage):H13(TTL in storage))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(I7(Dot):I8(Dot))/180))+((sum(I5(Dot):I6(Dot),I11(Dot):I13(Dot))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(J7(Total On Hand Inventory):J8(Total On Hand Inventory))/180))+((sum(J5(Total On Hand Inventory):J6(Total On Hand Inventory),J11(Total On Hand Inventory):J13(Total On Hand Inventory))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(M7(Open PO to Dot):M8(Open PO to Dot))/180))+((sum(M5(Open PO to Dot):M6(Open PO to Dot),M11(Open PO to Dot):M13(Open PO to Dot))/130))
+        - **Dependencies**: None
+                  **Table 4:**
+| 0                                    |     1 | 2       | 3                 | 4      | 5   | 6                        | 7   | 8          |
+|:-------------------------------------|------:|:--------|:------------------|:-------|:----|:-------------------------|:----|:-----------|
+|                                      |   nan |         | PALLET CALCULATOR |        |     |                          |     |            |
+|                                      |   nan |         | CASES             | WEIGHT |     | Final DOH once delivered |     | TARGET DOH |
+| CP Big Mozz Sticks                   | 20005 | 20005-1 |                   | 0      |     | 154.05                   |     | 60.0       |
+| CP Mozz Nuggets                      | 10150 | 10150-1 |                   | 0      | x   | 33.2                     |     | 60.0       |
+| CP Retail Big Mozz Sticks - Original | 60050 | 60050-1 |                   | 0      |     | 45                       |     | 60.0       |
+| CP Retail Mozz Nuggets - Original    | 60056 | 60056.0 |                   | 0      | x   | 40.81                    |     | 60.0       |
+
+        - **Column Name**: CP Big Mozz Sticks
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005-1
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PALLET CALCULATOR
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: WEIGHT
+        - **Formula**: =(E21(PALLET CALCULATOR)/130)*1820
+        - **Dependencies**: None
+                
+        - **Column Name**: x
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Final DOH once delivered
+        - **Formula**: =S5(Upcoming Dot DOH)+((E21(PALLET CALCULATOR)/('INPUT -> DOT Inventory Report'!U8(Unknown)/7)))
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: TARGET DOH
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: INVENTORY SNAPSHOT**
+  **Table 1:**
+| 0                   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   | 15   | 16         |
+|:--------------------|:----|:----|:----|:----|:----|:----|:----|:----|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----------|
+| 2025-01-10 00:00:00 |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      | 45 = antsy |
+
+        - **Column Name**: 2025-01-10 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 45 = antsy
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0                                    | 1          | 2         | 3         | 4       | 5       | 6              | 7     | 8                       | 9         | 10   | 11             | 12              | 13   | 14         |    15 | 16                 | 17               |
+|:-------------------------------------|:-----------|:----------|:----------|:--------|:--------|:---------------|:------|:------------------------|:----------|:-----|:---------------|:----------------|:-----|:-----------|------:|:-------------------|:-----------------|
+| SKU Description                      | Ref Code   | Item Code | Item Code | Comarco | Lineage | TTL in storage | Dot   | Total On Hand Inventory | available |      | Open PO to Dot | Open Comarco PO |      |            |   nan | Upcoming Dot Total | Upcoming Dot DOH |
+| CP Big Mozz Sticks                   | FS-STICKS  | 20005.0   | 20005-1   | -184    | 14077   | 13893          | 8651  | 22544                   |           |      | 3460           | 0               |      | FS-STICKS  | 20005 | 12111              | 154.05           |
+| CP Mozz Nuggets                      | FS-NUGGS   | 10150.0   | 10150-1   | -514    | 11174   | 10660          | 11272 | 21932                   |           |      | 2360           | 0               |      | FS-NUGGS   | 10150 | 13632              | 33.2             |
+| CP Retail Big Mozz Sticks - Original | RTL-STICKS | 60050.0   | 60050-1   | 47      | 4420    | 4467           | 6030  | 10497                   |           |      | 4785           | 0               |      | RTL-STICKS | 60050 | 10815              | 45               |
+| CP Retail Mozz Nuggets - Original    | RTL-NUGGS  | 60056.0   | 60056.0   | 0       | 5147    | 5147           | 788   | 5935                    |           |      | 0              | 0               |      | RTL-NUGGS  | 60056 | 788                | 40.81            |
+| Retail Spicy                         | RTL-SPICY  | 60052.0   | 60052.0   | 1       | 1404    | 1405           | 123   | 1528                    |           |      | 0              |                 |      |            |   nan |                    |                  |
+
+        - **Column Name**: SKU Description
+        - **Formula**: ='Current Inventory'!B20(CP Big Mozz Sticks)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Ref Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Comarco
+        - **Formula**: ='Current Inventory'!D6(Item Code)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Lineage
+        - **Formula**: ='Current Inventory'!D20(20005-1)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: TTL in storage
+        - **Formula**: =F5(Comarco)+G5(Lineage)
+        - **Dependencies**: None
+                
+        - **Column Name**: Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!R:R)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Total On Hand Inventory
+        - **Formula**: =sum(F5(Comarco):G5(Lineage),I5(Dot))
+        - **Dependencies**: None
+                
+        - **Column Name**: available 
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Open PO to Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!M:M)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Open Comarco PO
+        - **Formula**: =sumifs('Inventory Detail'!K:K,'Inventory Detail'!A:A,"Production",'Inventory Detail'!O:O,E5(Item Code),'Inventory Detail'!C:C,">="&$C$2,'Inventory Detail'!I:I,"CP"&"*")
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: FS-STICKS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot Total
+        - **Formula**: =M5(Open PO to Dot)+I5(Dot)
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot DOH
+        - **Formula**: ='INPUT -> DOT Inventory Report'!T8(Unknown)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                  **Table 3:**
+| 0             | 1   | 2   | 3   |        4 |       5 |       6 |       7 |      8 | 9   | 10   |      11 |
+|:--------------|:----|:----|:----|---------:|--------:|--------:|--------:|-------:|:----|:-----|--------:|
+| pallet spaces |     |     |     | -5.06197 | 281.804 | 276.742 | 199.378 | 476.12 |     |      | 72.1218 |
+
+        - **Column Name**: pallet spaces
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(F7(Comarco):F8(Comarco))/180))+((sum(F5(Comarco):F6(Comarco),F11(Comarco):F13(Comarco))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(G7(Lineage):G8(Lineage))/180))+((sum(G5(Lineage):G6(Lineage),G11(Lineage):G13(Lineage))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(H7(TTL in storage):H8(TTL in storage))/180))+((sum(H5(TTL in storage):H6(TTL in storage),H11(TTL in storage):H13(TTL in storage))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(I7(Dot):I8(Dot))/180))+((sum(I5(Dot):I6(Dot),I11(Dot):I13(Dot))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(J7(Total On Hand Inventory):J8(Total On Hand Inventory))/180))+((sum(J5(Total On Hand Inventory):J6(Total On Hand Inventory),J11(Total On Hand Inventory):J13(Total On Hand Inventory))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(M7(Open PO to Dot):M8(Open PO to Dot))/180))+((sum(M5(Open PO to Dot):M6(Open PO to Dot),M11(Open PO to Dot):M13(Open PO to Dot))/130))
+        - **Dependencies**: None
+                  **Table 4:**
+| 0                                    |     1 | 2       | 3                 | 4      | 5   | 6                        | 7   | 8          |
+|:-------------------------------------|------:|:--------|:------------------|:-------|:----|:-------------------------|:----|:-----------|
+|                                      |   nan |         | PALLET CALCULATOR |        |     |                          |     |            |
+|                                      |   nan |         | CASES             | WEIGHT |     | Final DOH once delivered |     | TARGET DOH |
+| CP Big Mozz Sticks                   | 20005 | 20005-1 |                   | 0      |     | 154.05                   |     | 60.0       |
+| CP Mozz Nuggets                      | 10150 | 10150-1 |                   | 0      | x   | 33.2                     |     | 60.0       |
+| CP Retail Big Mozz Sticks - Original | 60050 | 60050-1 |                   | 0      |     | 45                       |     | 60.0       |
+| CP Retail Mozz Nuggets - Original    | 60056 | 60056.0 |                   | 0      | x   | 40.81                    |     | 60.0       |
+
+        - **Column Name**: CP Big Mozz Sticks
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005-1
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PALLET CALCULATOR
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: WEIGHT
+        - **Formula**: =(E21(PALLET CALCULATOR)/130)*1820
+        - **Dependencies**: None
+                
+        - **Column Name**: x
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Final DOH once delivered
+        - **Formula**: =S5(Upcoming Dot DOH)+((E21(PALLET CALCULATOR)/('INPUT -> DOT Inventory Report'!U8(Unknown)/7)))
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: TARGET DOH
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 5:**
+| 0                          | 1   | 2                        |          3 | 4   |         5 |
+|:---------------------------|:----|:-------------------------|-----------:|:----|----------:|
+|                            |     |                          |  nan       |     |   0.11568 |
+| TTL PALLETS for this load: |     |                          |    3.00769 |     | nan       |
+|                            |     | TTL WEIGHT for this load | 5474       |     | nan       |
+
+        - **Column Name**: TTL PALLETS for this load:
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: TTL WEIGHT for this load
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(E23(PALLET CALCULATOR):E26(PALLET CALCULATOR))/180))+((sum(E21(PALLET CALCULATOR):E22(PALLET CALCULATOR),E27(PALLET CALCULATOR):E29(PALLET CALCULATOR))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =F33(nan)/26
+        - **Dependencies**: None
+                
+**Sheet: INVENTORY SNAPSHOT**
+  **Table 1:**
+| 0                   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   | 11   | 12   | 13   | 14   | 15   | 16         |
+|:--------------------|:----|:----|:----|:----|:----|:----|:----|:----|:----|:-----|:-----|:-----|:-----|:-----|:-----|:-----------|
+| 2025-01-10 00:00:00 |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      | 45 = antsy |
+
+        - **Column Name**: 2025-01-10 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 45 = antsy
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0                                    | 1          | 2         | 3         | 4       | 5       | 6              | 7     | 8                       | 9         | 10   | 11             | 12              | 13   | 14         |    15 | 16                 | 17               |
+|:-------------------------------------|:-----------|:----------|:----------|:--------|:--------|:---------------|:------|:------------------------|:----------|:-----|:---------------|:----------------|:-----|:-----------|------:|:-------------------|:-----------------|
+| SKU Description                      | Ref Code   | Item Code | Item Code | Comarco | Lineage | TTL in storage | Dot   | Total On Hand Inventory | available |      | Open PO to Dot | Open Comarco PO |      |            |   nan | Upcoming Dot Total | Upcoming Dot DOH |
+| CP Big Mozz Sticks                   | FS-STICKS  | 20005.0   | 20005-1   | -184    | 14077   | 13893          | 8651  | 22544                   |           |      | 3460           | 0               |      | FS-STICKS  | 20005 | 12111              | 154.05           |
+| CP Mozz Nuggets                      | FS-NUGGS   | 10150.0   | 10150-1   | -514    | 11174   | 10660          | 11272 | 21932                   |           |      | 2360           | 0               |      | FS-NUGGS   | 10150 | 13632              | 33.2             |
+| CP Retail Big Mozz Sticks - Original | RTL-STICKS | 60050.0   | 60050-1   | 47      | 4420    | 4467           | 6030  | 10497                   |           |      | 4785           | 0               |      | RTL-STICKS | 60050 | 10815              | 45               |
+| CP Retail Mozz Nuggets - Original    | RTL-NUGGS  | 60056.0   | 60056.0   | 0       | 5147    | 5147           | 788   | 5935                    |           |      | 0              | 0               |      | RTL-NUGGS  | 60056 | 788                | 40.81            |
+| Retail Spicy                         | RTL-SPICY  | 60052.0   | 60052.0   | 1       | 1404    | 1405           | 123   | 1528                    |           |      | 0              |                 |      |            |   nan |                    |                  |
+
+        - **Column Name**: SKU Description
+        - **Formula**: ='Current Inventory'!B20(CP Big Mozz Sticks)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Ref Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Comarco
+        - **Formula**: ='Current Inventory'!D6(Item Code)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: Lineage
+        - **Formula**: ='Current Inventory'!D20(20005-1)
+        - **Dependencies**: Current Inventory
+                
+        - **Column Name**: TTL in storage
+        - **Formula**: =F5(Comarco)+G5(Lineage)
+        - **Dependencies**: None
+                
+        - **Column Name**: Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!R:R)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Total On Hand Inventory
+        - **Formula**: =sum(F5(Comarco):G5(Lineage),I5(Dot))
+        - **Dependencies**: None
+                
+        - **Column Name**: available 
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Open PO to Dot
+        - **Formula**: =sumif('INPUT -> DOT Inventory Report'!G:G,D5(Item Code),'INPUT -> DOT Inventory Report'!M:M)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: Open Comarco PO
+        - **Formula**: =sumifs('Inventory Detail'!K:K,'Inventory Detail'!A:A,"Production",'Inventory Detail'!O:O,E5(Item Code),'Inventory Detail'!C:C,">="&$C$2,'Inventory Detail'!I:I,"CP"&"*")
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: FS-STICKS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot Total
+        - **Formula**: =M5(Open PO to Dot)+I5(Dot)
+        - **Dependencies**: None
+                
+        - **Column Name**: Upcoming Dot DOH
+        - **Formula**: ='INPUT -> DOT Inventory Report'!T8(Unknown)
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                  **Table 3:**
+| 0             | 1   | 2   | 3   |        4 |       5 |       6 |       7 |      8 | 9   | 10   |      11 |
+|:--------------|:----|:----|:----|---------:|--------:|--------:|--------:|-------:|:----|:-----|--------:|
+| pallet spaces |     |     |     | -5.06197 | 281.804 | 276.742 | 199.378 | 476.12 |     |      | 72.1218 |
+
+        - **Column Name**: pallet spaces
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(F7(Comarco):F8(Comarco))/180))+((sum(F5(Comarco):F6(Comarco),F11(Comarco):F13(Comarco))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(G7(Lineage):G8(Lineage))/180))+((sum(G5(Lineage):G6(Lineage),G11(Lineage):G13(Lineage))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(H7(TTL in storage):H8(TTL in storage))/180))+((sum(H5(TTL in storage):H6(TTL in storage),H11(TTL in storage):H13(TTL in storage))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(I7(Dot):I8(Dot))/180))+((sum(I5(Dot):I6(Dot),I11(Dot):I13(Dot))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(J7(Total On Hand Inventory):J8(Total On Hand Inventory))/180))+((sum(J5(Total On Hand Inventory):J6(Total On Hand Inventory),J11(Total On Hand Inventory):J13(Total On Hand Inventory))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(M7(Open PO to Dot):M8(Open PO to Dot))/180))+((sum(M5(Open PO to Dot):M6(Open PO to Dot),M11(Open PO to Dot):M13(Open PO to Dot))/130))
+        - **Dependencies**: None
+                  **Table 4:**
+| 0                                    |     1 | 2       | 3                 | 4      | 5   | 6                        | 7   | 8          |
+|:-------------------------------------|------:|:--------|:------------------|:-------|:----|:-------------------------|:----|:-----------|
+|                                      |   nan |         | PALLET CALCULATOR |        |     |                          |     |            |
+|                                      |   nan |         | CASES             | WEIGHT |     | Final DOH once delivered |     | TARGET DOH |
+| CP Big Mozz Sticks                   | 20005 | 20005-1 |                   | 0      |     | 154.05                   |     | 60.0       |
+| CP Mozz Nuggets                      | 10150 | 10150-1 |                   | 0      | x   | 33.2                     |     | 60.0       |
+| CP Retail Big Mozz Sticks - Original | 60050 | 60050-1 |                   | 0      |     | 45                       |     | 60.0       |
+| CP Retail Mozz Nuggets - Original    | 60056 | 60056.0 |                   | 0      | x   | 40.81                    |     | 60.0       |
+
+        - **Column Name**: CP Big Mozz Sticks
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20005-1
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PALLET CALCULATOR
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: WEIGHT
+        - **Formula**: =(E21(PALLET CALCULATOR)/130)*1820
+        - **Dependencies**: None
+                
+        - **Column Name**: x
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Final DOH once delivered
+        - **Formula**: =S5(Upcoming Dot DOH)+((E21(PALLET CALCULATOR)/('INPUT -> DOT Inventory Report'!U8(Unknown)/7)))
+        - **Dependencies**: INPUT -> DOT Inventory Report
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: TARGET DOH
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 5:**
+| 0                          | 1   | 2                        |          3 | 4   |         5 |
+|:---------------------------|:----|:-------------------------|-----------:|:----|----------:|
+|                            |     |                          |  nan       |     |   0.11568 |
+| TTL PALLETS for this load: |     |                          |    3.00769 |     | nan       |
+|                            |     | TTL WEIGHT for this load | 5474       |     | nan       |
+
+        - **Column Name**: TTL PALLETS for this load:
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: TTL WEIGHT for this load
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =((sum(E23(PALLET CALCULATOR):E26(PALLET CALCULATOR))/180))+((sum(E21(PALLET CALCULATOR):E22(PALLET CALCULATOR),E27(PALLET CALCULATOR):E29(PALLET CALCULATOR))/130))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =F33(nan)/26
+        - **Dependencies**: None
+                  **Table 6:**
+| 0      |
+|:-------|
+| Cases  |
+| 2080.0 |
+| 910.0  |
+
+        - **Column Name**: Cases
+        - **Formula**: None
+        - **Dependencies**: None
+                
+Number of Tokens: 3650
+Sheet: Sheet24
+Number of tables: 1
+**Sheet: Sheet24**
+  **Table 1:**
+| 0                         | 1         | 2       | 3       | 4       | 5               |
+|:--------------------------|:----------|:--------|:--------|:--------|:----------------|
+| SKU Description           | Item Code | Comarco | Lineage | Dot     | Producing Feb 3 |
+| CP Big Mozz Sticks        | 20005.0   |         | 17862.0 | 7612.0  |                 |
+| CP Mozz Nuggets           | 10150.0   | 5585.0  | 7149.0  | 10744.0 |                 |
+| CP The Mozz Junior        | 40005.0   |         | 2462.0  | 1024.0  | 1560.0          |
+| CP 3.75" Big Mozz Sticks  | 37505.0   |         | 342.0   | 0.0     | 3120.0          |
+| CP FINALMENTE Mozz Junior | 40055.0   |         | 1873.0  | 0.0     |                 |
+
+        - **Column Name**: SKU Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Item Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Comarco
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Lineage
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Dot
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Producing Feb 3
+        - **Formula**: None
+        - **Dependencies**: None
+                
+Number of Tokens: 424
+Sheet: Current Inventory
+Number of tables: 5
+**Sheet: Current Inventory**
+  **Table 1:**
+| 0                     | 1   | 2   | 3   | 4   | 5                                 |
+|:----------------------|:----|:----|:----|:----|:----------------------------------|
+| INVENTORY BY LOCATION |     |     |     |     | INVENTORY TOTALS -- EXCLUDING EGS |
+
+        - **Column Name**: INVENTORY BY LOCATION
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: INVENTORY TOTALS -- EXCLUDING EGS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: Current Inventory**
+  **Table 1:**
+| 0                     | 1   | 2   | 3   | 4   | 5                                 |
+|:----------------------|:----|:----|:----|:----|:----------------------------------|
+| INVENTORY BY LOCATION |     |     |     |     | INVENTORY TOTALS -- EXCLUDING EGS |
+
+        - **Column Name**: INVENTORY BY LOCATION
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: INVENTORY TOTALS -- EXCLUDING EGS
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0    | 1                   | 2   | 3   | 4   | 5    | 6                   |
+|:-----|:--------------------|:----|:----|:----|:-----|:--------------------|
+| Date | 2025-01-05 00:00:00 |     |     |     | Date | 2024-11-14 00:00:00 |
+
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2025-01-05 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-11-14 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: Current Inventory**
+  **Table 1:**
+| 0                     | 1   | 2   | 3   | 4   | 5                                 |
+|:----------------------|:----|:----|:----|:----|:----------------------------------|
+| INVENTORY BY LOCATION |     |     |     |     | INVENTORY TOTALS -- EXCLUDING EGS |
+
+        - **Column Name**: INVENTORY BY LOCATION
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: INVENTORY TOTALS -- EXCLUDING EGS
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0    | 1                   | 2   | 3   | 4   | 5    | 6                   |
+|:-----|:--------------------|:----|:----|:----|:-----|:--------------------|
+| Date | 2025-01-05 00:00:00 |     |     |     | Date | 2024-11-14 00:00:00 |
+
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2025-01-05 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-11-14 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 3:**
+| 0                | 1                                    | 2       | 3                                    | 4   | 5                                    | 6       | 7                                    | 8   | 9   |
+|:-----------------|:-------------------------------------|:--------|:-------------------------------------|:----|:-------------------------------------|:--------|:-------------------------------------|:----|:----|
+| Location         | Description                          | Code    | Case Quantity per Tracker AS OF DATE |     | Description                          | Code    | Case Quantity per Tracker AS OF DATE |     |     |
+| Comarco Products | CP Big Mozz Sticks                   | 20005-1 | -184                                 |     | CP Big Mozz Sticks                   | 20005-1 | 13893                                |     |     |
+| Comarco Products | CP Mozz Nuggets                      | 10150-1 | -514                                 |     | CP Mozz Nuggets                      | 10150-1 | 10660                                |     |     |
+| Comarco Products | CP Retail Big Mozz Sticks - Original | 60050-1 | 47                                   |     | CP Retail Big Mozz Sticks - Original | 60050-1 | 4467                                 |     |     |
+| Comarco Products | CP Retail Mozz Nuggets - Original    | 60056.0 | 0                                    |     | CP Retail Mozz Nuggets - Original    | 60056.0 | 5147                                 |     |     |
+| Comarco Products | CP The Mozz Junior                   | 40005-1 | 38                                   |     | CP The Mozz Junior                   | 40005-1 | 2190                                 |     |     |
+
+        - **Column Name**: Location
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Case Quantity per Tracker AS OF DATE
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$D:$D,$A6(Location),'Inventory Detail'!$J:$J,$B6(Description),'Inventory Detail'!$C:$C,"<="&$B$3)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Case Quantity per Tracker AS OF DATE
+        - **Formula**: =D6(Case Quantity per Tracker AS OF DATE)+D20(Case Quantity per Tracker AS OF DATE)
+        - **Dependencies**: None
+                
+        - **Column Name**: Price
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Value
+        - **Formula**: =H25(Case Quantity per Tracker AS OF DATE)*I25(Price)
+        - **Dependencies**: None
+                
+**Sheet: Current Inventory**
+  **Table 1:**
+| 0                     | 1   | 2   | 3   | 4   | 5                                 |
+|:----------------------|:----|:----|:----|:----|:----------------------------------|
+| INVENTORY BY LOCATION |     |     |     |     | INVENTORY TOTALS -- EXCLUDING EGS |
+
+        - **Column Name**: INVENTORY BY LOCATION
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: INVENTORY TOTALS -- EXCLUDING EGS
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0    | 1                   | 2   | 3   | 4   | 5    | 6                   |
+|:-----|:--------------------|:----|:----|:----|:-----|:--------------------|
+| Date | 2025-01-05 00:00:00 |     |     |     | Date | 2024-11-14 00:00:00 |
+
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2025-01-05 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-11-14 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 3:**
+| 0                | 1                                    | 2       | 3                                    | 4   | 5                                    | 6       | 7                                    | 8   | 9   |
+|:-----------------|:-------------------------------------|:--------|:-------------------------------------|:----|:-------------------------------------|:--------|:-------------------------------------|:----|:----|
+| Location         | Description                          | Code    | Case Quantity per Tracker AS OF DATE |     | Description                          | Code    | Case Quantity per Tracker AS OF DATE |     |     |
+| Comarco Products | CP Big Mozz Sticks                   | 20005-1 | -184                                 |     | CP Big Mozz Sticks                   | 20005-1 | 13893                                |     |     |
+| Comarco Products | CP Mozz Nuggets                      | 10150-1 | -514                                 |     | CP Mozz Nuggets                      | 10150-1 | 10660                                |     |     |
+| Comarco Products | CP Retail Big Mozz Sticks - Original | 60050-1 | 47                                   |     | CP Retail Big Mozz Sticks - Original | 60050-1 | 4467                                 |     |     |
+| Comarco Products | CP Retail Mozz Nuggets - Original    | 60056.0 | 0                                    |     | CP Retail Mozz Nuggets - Original    | 60056.0 | 5147                                 |     |     |
+| Comarco Products | CP The Mozz Junior                   | 40005-1 | 38                                   |     | CP The Mozz Junior                   | 40005-1 | 2190                                 |     |     |
+
+        - **Column Name**: Location
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Case Quantity per Tracker AS OF DATE
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$D:$D,$A6(Location),'Inventory Detail'!$J:$J,$B6(Description),'Inventory Detail'!$C:$C,"<="&$B$3)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Case Quantity per Tracker AS OF DATE
+        - **Formula**: =D6(Case Quantity per Tracker AS OF DATE)+D20(Case Quantity per Tracker AS OF DATE)
+        - **Dependencies**: None
+                
+        - **Column Name**: Price
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Value
+        - **Formula**: =H25(Case Quantity per Tracker AS OF DATE)*I25(Price)
+        - **Dependencies**: None
+                  **Table 4:**
+| 0                                                                   |
+|:--------------------------------------------------------------------|
+| INVENTORY FORECASTS - INCLUDING PRODUCTION & ANY PLANNED DELIVERIES |
+
+        - **Column Name**: INVENTORY FORECASTS - INCLUDING PRODUCTION & ANY PLANNED DELIVERIES
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: Current Inventory**
+  **Table 1:**
+| 0                     | 1   | 2   | 3   | 4   | 5                                 |
+|:----------------------|:----|:----|:----|:----|:----------------------------------|
+| INVENTORY BY LOCATION |     |     |     |     | INVENTORY TOTALS -- EXCLUDING EGS |
+
+        - **Column Name**: INVENTORY BY LOCATION
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: INVENTORY TOTALS -- EXCLUDING EGS
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0    | 1                   | 2   | 3   | 4   | 5    | 6                   |
+|:-----|:--------------------|:----|:----|:----|:-----|:--------------------|
+| Date | 2025-01-05 00:00:00 |     |     |     | Date | 2024-11-14 00:00:00 |
+
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2025-01-05 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-11-14 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 3:**
+| 0                | 1                                    | 2       | 3                                    | 4   | 5                                    | 6       | 7                                    | 8   | 9   |
+|:-----------------|:-------------------------------------|:--------|:-------------------------------------|:----|:-------------------------------------|:--------|:-------------------------------------|:----|:----|
+| Location         | Description                          | Code    | Case Quantity per Tracker AS OF DATE |     | Description                          | Code    | Case Quantity per Tracker AS OF DATE |     |     |
+| Comarco Products | CP Big Mozz Sticks                   | 20005-1 | -184                                 |     | CP Big Mozz Sticks                   | 20005-1 | 13893                                |     |     |
+| Comarco Products | CP Mozz Nuggets                      | 10150-1 | -514                                 |     | CP Mozz Nuggets                      | 10150-1 | 10660                                |     |     |
+| Comarco Products | CP Retail Big Mozz Sticks - Original | 60050-1 | 47                                   |     | CP Retail Big Mozz Sticks - Original | 60050-1 | 4467                                 |     |     |
+| Comarco Products | CP Retail Mozz Nuggets - Original    | 60056.0 | 0                                    |     | CP Retail Mozz Nuggets - Original    | 60056.0 | 5147                                 |     |     |
+| Comarco Products | CP The Mozz Junior                   | 40005-1 | 38                                   |     | CP The Mozz Junior                   | 40005-1 | 2190                                 |     |     |
+
+        - **Column Name**: Location
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Case Quantity per Tracker AS OF DATE
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$D:$D,$A6(Location),'Inventory Detail'!$J:$J,$B6(Description),'Inventory Detail'!$C:$C,"<="&$B$3)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Case Quantity per Tracker AS OF DATE
+        - **Formula**: =D6(Case Quantity per Tracker AS OF DATE)+D20(Case Quantity per Tracker AS OF DATE)
+        - **Dependencies**: None
+                
+        - **Column Name**: Price
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Value
+        - **Formula**: =H25(Case Quantity per Tracker AS OF DATE)*I25(Price)
+        - **Dependencies**: None
+                  **Table 4:**
+| 0                                                                   |
+|:--------------------------------------------------------------------|
+| INVENTORY FORECASTS - INCLUDING PRODUCTION & ANY PLANNED DELIVERIES |
+
+        - **Column Name**: INVENTORY FORECASTS - INCLUDING PRODUCTION & ANY PLANNED DELIVERIES
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 5:**
+| 0                                    | 1       | 2                   | 3                   | 4                   | 5                   |
+|:-------------------------------------|:--------|:--------------------|:--------------------|:--------------------|:--------------------|
+| Description                          | Code    | 2024-06-01 00:00:00 | 2024-07-01 00:00:00 | 2024-08-01 00:00:00 | 2024-09-01 00:00:00 |
+| CP Big Mozz Sticks                   | 20005-1 | 507                 | 2037                | 8779                | 11241               |
+| CP Mozz Nuggets                      | 10150-1 | 961                 | 600                 | 3155                | 2689                |
+| CP Retail Big Mozz Sticks - Original | 60050-1 | 3060                | 2344                | 8398                | 2342                |
+| CP Retail Mozz Nuggets - Original    | 60056.0 | 2134.6              | 2161.6              | 1621.6              | 282.6               |
+| CP The Mozz Junior                   | 40005-1 | 2038                | 3900                | 3090                | 0                   |
+
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-06-01 00:00:00
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$J:$J,$A38(Description),'Inventory Detail'!$C:$C,"<="&C$37)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: 2024-07-01 00:00:00
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$J:$J,$A38(Description),'Inventory Detail'!$C:$C,"<="&D$37)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: 2024-08-01 00:00:00
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$J:$J,$A38(Description),'Inventory Detail'!$C:$C,"<="&E$37)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: 2024-09-01 00:00:00
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$J:$J,$A38(Description),'Inventory Detail'!$C:$C,"<="&F$37)
+        - **Dependencies**: Inventory Detail
+                
+Number of Tokens: 2003
+Sheet: INPUT -> DOT Inventory Report
+Number of tables: 2
+**Sheet: INPUT -> DOT Inventory Report**
+  **Table 1:**
+| 0                                    | 1               | 2                | 3                   | 4            | 5               | 6          | 7          | 8       | 9            | 10     | 11          | 12       | 13                 | 14   | 15                | 16            | 17              | 18                      | 19                   | 20                 | 21                | 22                   | 23                 | 24                  | 25               | 26                | 27                | 28            | 29                | 30   | 31    | 32   | 33     | 34          | 35                   | 36               | 37                 | 38           | 39            | 40           | 41              | 42                 |
+|:-------------------------------------|:----------------|:-----------------|:--------------------|:-------------|:----------------|:-----------|:-----------|:--------|:-------------|:-------|:------------|:---------|:-------------------|:-----|:------------------|:--------------|:----------------|:------------------------|:---------------------|:-------------------|:------------------|:---------------------|:-------------------|:--------------------|:-----------------|:------------------|:------------------|:--------------|:------------------|:-----|:------|:-----|:-------|:------------|:---------------------|:-----------------|:-------------------|:-------------|:--------------|:-------------|:----------------|:-------------------|
+| SUPPLIER STOCKED ITEMS STATUS REPORT |                 |                  | 2024-10-21 00:00:00 |              |                 |            |            |         |              |        |             |          |                    |      |                   |               |                 |                         |                      |                    |                   |                      |                    |                     |                  |                   |                   |               |                   |      |       |      |        |             |                      |                  |                    |              |               |              |                 |                    |
+| DATA DATE                            | DOT ITEM NUMBER | ITEM DESCRIPTION | TEMP                | STOCK STATUS | PROD SHELF LIFE | MFG NUMBER | UPC NUMBER | LINE ID | LINE ID NAME | DOT DC | QTY ON HAND | ON ORDER | INTERNAL TRANSFERS | SOLD | TRANSFER QTY CMTD | NET AVAILABLE | OVERALL BALANCE | NOT AVAILABLE INVENTORY | DAYS INV IN PIPELINE | CASE WKLY FORECAST | SEASONAL FORECAST | LAST WEEKLY FORECAST | SEASONAL PROFILE # | SHIPPED PRD TO DATE | SHIPPED LAST PRD | SHIPPED 2 PRD AGO | SHIPPED 3 PRD AGO | VENDOR NUMBER | VENDOR PICKUP LOC | CITY | STATE | CUBE | PALLET | CASE WEIGHT | WEEKLY WGHT EXTENDED | LAST PO RECEIVED | LAST PURCHASE COST | AVERAGE COST | DATE RECEIVED | QTY RECEIVED | BUYING MULTIPLE | LIMITED AVAIL DESC |
+
+        - **Column Name**: SUPPLIER STOCKED ITEMS STATUS REPORT
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DOT ITEM NUMBER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: ITEM DESCRIPTION
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-10-21 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: STOCK STATUS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PROD SHELF LIFE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: MFG NUMBER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: UPC NUMBER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LINE ID
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LINE ID NAME
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DOT DC
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: QTY ON HAND
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: ON ORDER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: INTERNAL TRANSFERS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SOLD
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: TRANSFER QTY CMTD
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: NET AVAILABLE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: OVERALL BALANCE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: NOT AVAILABLE INVENTORY
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DAYS INV IN PIPELINE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: CASE WKLY FORECAST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SEASONAL FORECAST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LAST WEEKLY FORECAST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SEASONAL PROFILE #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SHIPPED PRD TO DATE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SHIPPED LAST PRD
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SHIPPED 2 PRD AGO
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SHIPPED 3 PRD AGO
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: VENDOR NUMBER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: VENDOR PICKUP LOC
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: CITY
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: STATE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: CUBE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PALLET
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: CASE WEIGHT
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: WEEKLY WGHT EXTENDED
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LAST PO RECEIVED
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LAST PURCHASE COST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: AVERAGE COST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DATE RECEIVED
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: QTY RECEIVED
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: BUYING MULTIPLE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LIMITED AVAIL DESC
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: INPUT -> DOT Inventory Report**
+  **Table 1:**
+| 0                                    | 1               | 2                | 3                   | 4            | 5               | 6          | 7          | 8       | 9            | 10     | 11          | 12       | 13                 | 14   | 15                | 16            | 17              | 18                      | 19                   | 20                 | 21                | 22                   | 23                 | 24                  | 25               | 26                | 27                | 28            | 29                | 30   | 31    | 32   | 33     | 34          | 35                   | 36               | 37                 | 38           | 39            | 40           | 41              | 42                 |
+|:-------------------------------------|:----------------|:-----------------|:--------------------|:-------------|:----------------|:-----------|:-----------|:--------|:-------------|:-------|:------------|:---------|:-------------------|:-----|:------------------|:--------------|:----------------|:------------------------|:---------------------|:-------------------|:------------------|:---------------------|:-------------------|:--------------------|:-----------------|:------------------|:------------------|:--------------|:------------------|:-----|:------|:-----|:-------|:------------|:---------------------|:-----------------|:-------------------|:-------------|:--------------|:-------------|:----------------|:-------------------|
+| SUPPLIER STOCKED ITEMS STATUS REPORT |                 |                  | 2024-10-21 00:00:00 |              |                 |            |            |         |              |        |             |          |                    |      |                   |               |                 |                         |                      |                    |                   |                      |                    |                     |                  |                   |                   |               |                   |      |       |      |        |             |                      |                  |                    |              |               |              |                 |                    |
+| DATA DATE                            | DOT ITEM NUMBER | ITEM DESCRIPTION | TEMP                | STOCK STATUS | PROD SHELF LIFE | MFG NUMBER | UPC NUMBER | LINE ID | LINE ID NAME | DOT DC | QTY ON HAND | ON ORDER | INTERNAL TRANSFERS | SOLD | TRANSFER QTY CMTD | NET AVAILABLE | OVERALL BALANCE | NOT AVAILABLE INVENTORY | DAYS INV IN PIPELINE | CASE WKLY FORECAST | SEASONAL FORECAST | LAST WEEKLY FORECAST | SEASONAL PROFILE # | SHIPPED PRD TO DATE | SHIPPED LAST PRD | SHIPPED 2 PRD AGO | SHIPPED 3 PRD AGO | VENDOR NUMBER | VENDOR PICKUP LOC | CITY | STATE | CUBE | PALLET | CASE WEIGHT | WEEKLY WGHT EXTENDED | LAST PO RECEIVED | LAST PURCHASE COST | AVERAGE COST | DATE RECEIVED | QTY RECEIVED | BUYING MULTIPLE | LIMITED AVAIL DESC |
+
+        - **Column Name**: SUPPLIER STOCKED ITEMS STATUS REPORT
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DOT ITEM NUMBER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: ITEM DESCRIPTION
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-10-21 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: STOCK STATUS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PROD SHELF LIFE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: MFG NUMBER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: UPC NUMBER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LINE ID
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LINE ID NAME
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DOT DC
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: QTY ON HAND
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: ON ORDER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: INTERNAL TRANSFERS
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SOLD
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: TRANSFER QTY CMTD
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: NET AVAILABLE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: OVERALL BALANCE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: NOT AVAILABLE INVENTORY
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DAYS INV IN PIPELINE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: CASE WKLY FORECAST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SEASONAL FORECAST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LAST WEEKLY FORECAST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SEASONAL PROFILE #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SHIPPED PRD TO DATE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SHIPPED LAST PRD
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SHIPPED 2 PRD AGO
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SHIPPED 3 PRD AGO
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: VENDOR NUMBER
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: VENDOR PICKUP LOC
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: CITY
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: STATE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: CUBE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PALLET
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: CASE WEIGHT
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: WEEKLY WGHT EXTENDED
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LAST PO RECEIVED
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LAST PURCHASE COST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: AVERAGE COST
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DATE RECEIVED
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: QTY RECEIVED
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: BUYING MULTIPLE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: LIMITED AVAIL DESC
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+|           0 |      1 | 2                                                                      | 3   | 4   |   5 |     6 |           7 |    8 | 9        | 10   |   11 |   12 |   13 |   14 |   15 |   16 |   17 |   18 |     19 |      20 |      21 |     22 | 23   |   24 |   25 |   26 |   27 |     28 |   29 | 30           | 31   |     32 |   33 |   34 |       35 | 36         |      37 |      38 |          39 |   40 |   41 |
+|------------:|-------:|:-----------------------------------------------------------------------|:----|:----|----:|------:|------------:|-----:|:---------|:-----|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-------:|--------:|--------:|-------:|:-----|-----:|-----:|-----:|-----:|-------:|-----:|:-------------|:-----|-------:|-----:|-----:|---------:|:-----------|--------:|--------:|------------:|-----:|-----:|
+| 2.02412e+07 | 761285 | BIG MOZZ BITE-SIZED MOZZARELLA NUGGETS, 6 - 2 LB                       | FRZ | A   | 547 | 10150 | 8.50039e+11 | 3030 | BIG MOZZ | DE   | 2894 |  660 |  230 |  174 |    0 | 2720 | 3610 |    0 |  34.74 |  727.27 |  727.27 | 780.19 |      |  980 | 2031 | 1874 | 1836 | 627750 |    4 | JACKSONVILLE | FL   | 0.635  |  130 | 13.5 |  9818.14 | 168872-001 | 55      | 55      | 2.02412e+07 |  552 |    1 |
+| 2.02412e+07 | 761285 | BIG MOZZ BITE-SIZED MOZZARELLA NUGGETS, 6 - 2 LB                       | FRZ | A   | 547 | 10150 | 8.50039e+11 | 3030 | BIG MOZZ | DE   | 2506 | 1050 |    0 |  210 |    0 | 2296 | 3346 |    0 |  33.2  |  705.3  |  705.3  |   0    |      | 1793 | 2031 | 1874 | 1836 | 627750 |    4 | JACKSONVILLE | FL   | 0.635  |  130 | 13.5 |  9521.55 | 168872-001 | 55      | 55.0254 | 2.02412e+07 |  552 |    1 |
+| 2.02412e+07 | 761285 | BIG MOZZ BITE-SIZED MOZZARELLA NUGGETS, 6 - 2 LB                       | FRZ | A   | 547 | 10150 | 8.50039e+11 | 3030 | BIG MOZZ | IL   | 3647 |  650 |    0 |   40 |    0 | 3607 | 4257 |    0 |  61.7  |  482.91 |  482.91 |   0    |      | 1664 | 1734 | 1534 | 1395 | 627750 |    4 | JACKSONVILLE | FL   | 0.635  |  130 | 13.5 |  6519.28 | 168891-001 | 55      | 55.3039 | 2.02412e+07 |  120 |  130 |
+| 2.02412e+07 | 782461 | BIG MOZZ SAMPLE BITE-SIZED FRESH MOZZARELLA NUGGET, 1 - 2 LB           | FRZ | A   | 547 | 10150 | 1e+14       | 3030 | BIG MOZZ | IL   |    2 |    0 |    0 |    0 |    0 |    2 |    2 |    0 |   3.98 |    3.52 |    3.52 |   0    |      |    0 |    0 |    0 |    0 | 627750 |    4 | JACKSONVILLE | FL   | 0.635  |  130 | 13.5 |    47.52 |            |  9.1666 |  9.2173 | 0           |    0 |    1 |
+| 2.02412e+07 | 783577 | BIG MOZZ SAMPLE BITE SIZED MOZZARELLA NUGGETS, 1 - 2 LB                | FRZ | A   | 547 | 10150 | 1e+14       | 3030 | BIG MOZZ | IL   |   57 |    0 |    0 |    0 |    0 |   57 |   57 |    0 | 154.05 |    2.59 |    2.59 |   0    |      |    0 |    0 |    0 |    0 | 627750 |    4 | JACKSONVILLE | FL   | 0.1306 |  270 |  2.5 |     6.47 |            |  9.26   |  9.26   | 0           |    0 |    1 |
+| 2.02412e+07 | 761283 | BIG MOZZ MOZZARELLA STICK COATED WITH FRESH GARLIC, PARSLEY & ROMANO C | FRZ | A   | 547 | 20005 | 8.60007e+11 | 3030 | BIG MOZZ | DE   | 3040 | 1250 |    1 |  590 |    0 | 2450 | 3701 |    0 |  21.06 | 1229.93 | 1229.93 |   0    |      | 3756 | 4196 | 3872 | 4549 | 627750 |    4 | JACKSONVILLE | FL   | 0.635  |  130 | 13.5 | 16604    | 163371-001 | 55      | 55.1063 | 2.02412e+07 |  440 |    1 |
+
+        - **Column Name**: 20241230.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 761285.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: BIG MOZZ BITE-SIZED MOZZARELLA NUGGETS, 6 - 2 LB
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: FRZ
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: A
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 547.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 10150
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 00850039394003
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 3030.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: BIG MOZZ
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2894.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 660.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 230.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 174.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 0.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2720.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 3610.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 0.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 34.74
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 727.27
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 727.27
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 780.19
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 980.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2031.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 1874.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 1836.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 627750
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 004
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: JACKSONVILLE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: FL
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 0.635
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 130.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 13.5
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 9818.14
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 168872-001
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 20241212.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 552.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 1.0
+        - **Formula**: None
+        - **Dependencies**: None
+                
+Number of Tokens: 4625
+Sheet: Inventory Detail
+Number of tables: 1
+**Sheet: Inventory Detail**
+  **Table 1:**
+| 0            | 1          | 2                   | 3                    | 4                 | 5           | 6         | 7     | 8    | 9                   | 10    | 11      | 12   | 13          | 14           | 15    | 16           | 17   | 18             | 19            | 20                 | 21    | 22   | 23   |
+|:-------------|:-----------|:--------------------|:---------------------|:------------------|:------------|:----------|:------|:-----|:--------------------|:------|:--------|:-----|:------------|:-------------|:------|:-------------|:-----|:---------------|:--------------|:-------------------|:------|:-----|:-----|
+| Invoice Sent | Order Date | PickUp Date         | ORIGIN               | Customer Delivery | DESTINATION | Transport | BOL # | PO # | Product Description | Cases | Pallets | FTL  | Product UPC | Product Code | Month | Invoice Date | PO # | Invoice Number | Total Invoice | Invoice $ per Case | Notes | Week | Year |
+| True Up      |            | 2023-07-18 00:00:00 | EGS- Kansas City, KS | True Up           |             |           |       |      | Big Mozz Sticks     | 531.0 |         |      |             |              | 7     |              |      |                |               | 0                  |       | 29   | 2023 |
+| True Up      |            | 2023-07-18 00:00:00 | EGS- Wallace, NC     | True Up           |             |           |       |      | Big Mozz Sticks     | 440.0 |         |      |             |              | 7     |              |      |                |               | 0                  |       | 29   | 2023 |
+| True Up      |            | 2023-07-18 00:00:00 | EGS- Kansas City, KS | True Up           |             |           |       |      | Mozz Nuggets        | 498.0 |         |      |             |              | 7     |              |      |                |               | 0                  |       | 29   | 2023 |
+| True Up      |            | 2023-07-18 00:00:00 | EGS- Wallace, NC     | True Up           |             |           |       |      | Mozz Nuggets        | 321.0 |         |      |             |              | 7     |              |      |                |               | 0                  |       | 29   | 2023 |
+| True Up      |            | 2023-07-18 00:00:00 | EGS- Kansas City, KS | True Up           |             |           |       |      | The Mozz Junior     | 31.0  |         |      |             |              | 7     |              |      |                |               | 0                  |       | 29   | 2023 |
+
+        - **Column Name**: Invoice Sent
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Order Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PickUp Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: ORIGIN
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Customer Delivery
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: DESTINATION
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Transport
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: BOL #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PO #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Product Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Cases 
+        - **Formula**: =260
+        - **Dependencies**: None
+                
+        - **Column Name**: Pallets
+        - **Formula**: =ifna(K2(Cases )/vlookup(J2(Product Description),'Item List'!A:E,5,false),"")
+        - **Dependencies**: Item List
+                
+        - **Column Name**: FTL
+        - **Formula**: =ifna(L2(Pallets)/vlookup(J2(Product Description),'Item List'!A:G,7,false),"")
+        - **Dependencies**: Item List
+                
+        - **Column Name**: Product UPC
+        - **Formula**: =ifna(vlookup($J2(Product Description),'Item List'!$A:$C,3,false),"")
+        - **Dependencies**: Item List
+                
+        - **Column Name**: Product Code
+        - **Formula**: =ifna(vlookup($J2(Product Description),'Item List'!$A:$C,2,false),"")
+        - **Dependencies**: Item List
+                
+        - **Column Name**: Month
+        - **Formula**: =month(C2(PickUp Date))
+        - **Dependencies**: None
+                
+        - **Column Name**: Invoice Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PO #
+        - **Formula**: =I89(PO #)
+        - **Dependencies**: None
+                
+        - **Column Name**: Invoice Number
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Total Invoice
+        - **Formula**: =-K102(Cases )*55.54
+        - **Dependencies**: None
+                
+        - **Column Name**: Invoice $ per Case
+        - **Formula**: =T2(Total Invoice)/K2(Cases )
+        - **Dependencies**: None
+                
+        - **Column Name**: Notes
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Week
+        - **Formula**: =WEEKNUM(C2(PickUp Date))
+        - **Dependencies**: None
+                
+        - **Column Name**: Year
+        - **Formula**: =year(C2(PickUp Date))
+        - **Dependencies**: None
+                
+Number of Tokens: 1460
+Sheet: True Up Template
+Number of tables: 2
+**Sheet: True Up Template**
+  **Table 1:**
+| 0                    | 1                                 | 2       | 3                                    | 4                          | 5          | 6   | 7   | 8   | 9   | 10   | 11                   | 12                                | 13                     | 14            | 15                  | 16                                                    | 17                  | 18                  | 19                  | 20                  | 21                  | 22                  | 23                  | 24                  | 25                  | 26                  | 27                  |
+|:---------------------|:----------------------------------|:--------|:-------------------------------------|:---------------------------|:-----------|:----|:----|:----|:----|:-----|:---------------------|:----------------------------------|:-----------------------|:--------------|:--------------------|:------------------------------------------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|
+| Date                 | 2024-10-03 00:00:00               |         |                                      |                            |            |     |     |     |     |      |                      |                                   |                        |               |                     |                                                       |                     |                     |                     |                     |                     | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+|                      |                                   |         |                                      |                            |            |     |     |     |     |      |                      |                                   | COUNTS FROM WAREHOUSES |               |                     |                                                       |                     |                     |                     |                     |                     | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+| Location             | Description                       | Code    | Case Quantity per Tracker AS OF DATE | Actual Quantity AS OF DATE | Difference |     |     |     |     |      | Location             | Description                       | Jan 11th 2024          | Jan 21st 2024 | 2024-02-01 00:00:00 | Mid-Feb PHYSICAL Count (2/8-2/15, varies by facility) | 2024-03-01 00:00:00 | 2024-03-29 00:00:00 | 2024-04-30 00:00:00 | 2024-05-31 00:00:00 | 2024-07-01 00:00:00 | 2024-07-15 00:00:00 | 2024-08-19 00:00:00 | 2024-09-03 00:00:00 | 2024-10-01 00:00:00 | 2024-11-01 00:00:00 | 2024-12-01 00:00:00 |
+| EGS- Kansas City, KS | Big Mozz Sticks                   | 20005.0 | 3.1                                  |                            |            |     |     |     |     |      | EGS- Kansas City, KS | Big Mozz Sticks                   | 65.0                   | 48.0          | 34.8                | 34.8                                                  | 16.6                | 1.0                 | 2.3                 | 3.1                 | 0.0                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+| EGS- Kansas City, KS | Mozz Nuggets                      | 10150.0 | 28                                   |                            |            |     |     |     |     |      | EGS- Kansas City, KS | Mozz Nuggets                      | 13.6                   | 54.5          | 48.3                | 48.3                                                  | 44.5                | 39.0                | 35.8                | 28.0                | 0.0                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+| EGS- Kansas City, KS | Retail Big Mozz Sticks - Original | 60050.0 | 27.5                                 |                            |            |     |     |     |     |      | EGS- Kansas City, KS | Retail Big Mozz Sticks - Original | 116.0                  | 112.5         | 111.0               | 111.0                                                 | 109.6               | 170.0               | 45.3                | 27.5                | 0.0                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-10-03 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Case Quantity per Tracker AS OF DATE
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$D:$D,$A4(Date),'Inventory Detail'!$J:$J,$B4(2024-10-03 00:00:00),'Inventory Detail'!$C:$C,"<="&$B$1)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: Actual Quantity AS OF DATE
+        - **Formula**: =S15(2024-03-29 00:00:00)
+        - **Dependencies**: None
+                
+        - **Column Name**: Difference
+        - **Formula**: =E15(Actual Quantity AS OF DATE)-D15(Case Quantity per Tracker AS OF DATE)
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Location
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: COUNTS FROM WAREHOUSES
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Jan 21st 2024
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-02-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Mid-Feb PHYSICAL Count (2/8-2/15, varies by facility)
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-03-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-03-29 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-04-30 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-05-31 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-07-01 00:00:00
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$D:$D,$A42(Date),'Inventory Detail'!$J:$J,$B42(2024-10-03 00:00:00),'Inventory Detail'!$C:$C,"<="&$B$1)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: 2024-07-15 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-08-19 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-09-03 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-10-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-11-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-12-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: True Up Template**
+  **Table 1:**
+| 0                    | 1                                 | 2       | 3                                    | 4                          | 5          | 6   | 7   | 8   | 9   | 10   | 11                   | 12                                | 13                     | 14            | 15                  | 16                                                    | 17                  | 18                  | 19                  | 20                  | 21                  | 22                  | 23                  | 24                  | 25                  | 26                  | 27                  |
+|:---------------------|:----------------------------------|:--------|:-------------------------------------|:---------------------------|:-----------|:----|:----|:----|:----|:-----|:---------------------|:----------------------------------|:-----------------------|:--------------|:--------------------|:------------------------------------------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|
+| Date                 | 2024-10-03 00:00:00               |         |                                      |                            |            |     |     |     |     |      |                      |                                   |                        |               |                     |                                                       |                     |                     |                     |                     |                     | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+|                      |                                   |         |                                      |                            |            |     |     |     |     |      |                      |                                   | COUNTS FROM WAREHOUSES |               |                     |                                                       |                     |                     |                     |                     |                     | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+| Location             | Description                       | Code    | Case Quantity per Tracker AS OF DATE | Actual Quantity AS OF DATE | Difference |     |     |     |     |      | Location             | Description                       | Jan 11th 2024          | Jan 21st 2024 | 2024-02-01 00:00:00 | Mid-Feb PHYSICAL Count (2/8-2/15, varies by facility) | 2024-03-01 00:00:00 | 2024-03-29 00:00:00 | 2024-04-30 00:00:00 | 2024-05-31 00:00:00 | 2024-07-01 00:00:00 | 2024-07-15 00:00:00 | 2024-08-19 00:00:00 | 2024-09-03 00:00:00 | 2024-10-01 00:00:00 | 2024-11-01 00:00:00 | 2024-12-01 00:00:00 |
+| EGS- Kansas City, KS | Big Mozz Sticks                   | 20005.0 | 3.1                                  |                            |            |     |     |     |     |      | EGS- Kansas City, KS | Big Mozz Sticks                   | 65.0                   | 48.0          | 34.8                | 34.8                                                  | 16.6                | 1.0                 | 2.3                 | 3.1                 | 0.0                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+| EGS- Kansas City, KS | Mozz Nuggets                      | 10150.0 | 28                                   |                            |            |     |     |     |     |      | EGS- Kansas City, KS | Mozz Nuggets                      | 13.6                   | 54.5          | 48.3                | 48.3                                                  | 44.5                | 39.0                | 35.8                | 28.0                | 0.0                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+| EGS- Kansas City, KS | Retail Big Mozz Sticks - Original | 60050.0 | 27.5                                 |                            |            |     |     |     |     |      | EGS- Kansas City, KS | Retail Big Mozz Sticks - Original | 116.0                  | 112.5         | 111.0               | 111.0                                                 | 109.6               | 170.0               | 45.3                | 27.5                | 0.0                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 | NaT                 |
+
+        - **Column Name**: Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-10-03 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Code
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Case Quantity per Tracker AS OF DATE
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$D:$D,$A4(Date),'Inventory Detail'!$J:$J,$B4(2024-10-03 00:00:00),'Inventory Detail'!$C:$C,"<="&$B$1)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: Actual Quantity AS OF DATE
+        - **Formula**: =S15(2024-03-29 00:00:00)
+        - **Dependencies**: None
+                
+        - **Column Name**: Difference
+        - **Formula**: =E15(Actual Quantity AS OF DATE)-D15(Case Quantity per Tracker AS OF DATE)
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Location
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: COUNTS FROM WAREHOUSES
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Jan 21st 2024
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-02-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Mid-Feb PHYSICAL Count (2/8-2/15, varies by facility)
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-03-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-03-29 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-04-30 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-05-31 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-07-01 00:00:00
+        - **Formula**: =sumifs('Inventory Detail'!$K:$K,'Inventory Detail'!$D:$D,$A42(Date),'Inventory Detail'!$J:$J,$B42(2024-10-03 00:00:00),'Inventory Detail'!$C:$C,"<="&$B$1)
+        - **Dependencies**: Inventory Detail
+                
+        - **Column Name**: 2024-07-15 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-08-19 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-09-03 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-10-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-11-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-12-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 2:**
+| 0            | 1                   | 2                   | 3                | 4          | 5           | 6         | 7     | 8    | 9                                    | 10      | 11                     | 12              | 13            | 14            | 15                  | 16                                                    | 17                  | 18                  | 19                  |
+|:-------------|:--------------------|:--------------------|:-----------------|:-----------|:------------|:----------|:------|:-----|:-------------------------------------|:--------|:-----------------------|:----------------|:--------------|:--------------|:--------------------|:------------------------------------------------------|:--------------------|:--------------------|:--------------------|
+|              |                     |                     |                  |            |             |           |       |      |                                      |         | SUM WITHOUT RITE STUFF |                 | Jan 11th 2024 | Jan 21st 2024 | 2024-02-01 00:00:00 | Mid-Feb PHYSICAL Count (2/8-2/15, varies by facility) | 2024-03-01 00:00:00 | 2024-03-29 00:00:00 | 2024-04-30 00:00:00 |
+|              |                     |                     |                  |            |             |           |       |      |                                      |         |                        | Big Mozz Sticks | 142           | 65            | 51.8                | 51.8                                                  | 16.6                | 1                   | 2.3                 |
+| Invoice Sent | Order Date          | PickUp Date         | Location         | Production | Destination | Transport | BOL # | PO # | Product Description                  | Cases   |                        | Mozz Nuggets    | 1716.6        | 1757.5        | 1244.3              | 1244.3                                                | 44.5                | 39                  | 35.8                |
+| True Up      | 2024-08-20 00:00:00 | 2024-08-20 00:00:00 | Comarco Products | True Up    |             |           |       |      | CP The Mozz Junior                   | -100.0  |                        |                 |               |               |                     |                                                       |                     |                     |                     |
+| True Up      | 2024-08-20 00:00:00 | 2024-08-20 00:00:00 | Comarco Products | True Up    |             |           |       |      | CP Retail Big Mozz Sticks - Original | -1590.0 |                        |                 |               |               |                     |                                                       |                     |                     |                     |
+| True Up      | 2024-08-20 00:00:00 | 2024-08-20 00:00:00 | Comarco Products | True Up    |             |           |       |      | CP Retail Mozz Nuggets - Original    | -3.0    |                        |                 |               |               |                     |                                                       |                     |                     |                     |
+
+        - **Column Name**: Invoice Sent
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Order Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PickUp Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Location
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Production
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Destination
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Transport
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: BOL #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PO #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Product Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Cases 
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: SUM WITHOUT RITE STUFF
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Big Mozz Sticks
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =N3(COUNTS FROM WAREHOUSES)
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =O3(Jan 21st 2024)
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =P3(2024-02-01 00:00:00)
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =Q3(Mid-Feb PHYSICAL Count (2/8-2/15, varies by facility))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =R3(2024-03-01 00:00:00)
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-03-29 00:00:00
+        - **Formula**: =sumif($M$4:$M$49,$M53(Big Mozz Sticks),S$4:S$49)
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-04-30 00:00:00
+        - **Formula**: =sumif($M$4:$M$49,$M53(Big Mozz Sticks),T$4:T$49)
+        - **Dependencies**: None
+                
+Number of Tokens: 3447
+Sheet: Copy of Inventory Detail
+Number of tables: 1
+**Sheet: Copy of Inventory Detail**
+  **Table 1:**
+| 0              | 1          | 2                   | 3                    | 4          | 5           | 6         | 7     | 8    | 9                   | 10    | 11      | 12   | 13          | 14           | 15    | 16           | 17   | 18             | 19            | 20                 | 21    |
+|:---------------|:-----------|:--------------------|:---------------------|:-----------|:------------|:----------|:------|:-----|:--------------------|:------|:--------|:-----|:------------|:-------------|:------|:-------------|:-----|:---------------|:--------------|:-------------------|:------|
+| Order Received | Order Date | PickUp Date         | Location             | Production | Destination | Transport | BOL # | PO # | Product Description | Cases | Pallets | FTL  | Product UPC | Product Code | Month | Invoice Date | PO # | Invoice Number | Total Invoice | Invoice $ per Case | Notes |
+| True Up        |            | 2023-07-18 00:00:00 | EGS- Kansas City, KS | True Up    |             |           |       |      | Big Mozz Sticks     | 531.0 |         |      |             |              | 7     |              |      |                |               | 0                  |       |
+| True Up        |            | 2023-07-18 00:00:00 | EGS- Wallace, NC     | True Up    |             |           |       |      | Big Mozz Sticks     | 440.0 |         |      |             |              | 7     |              |      |                |               | 0                  |       |
+| True Up        |            | 2023-07-18 00:00:00 | EGS- Kansas City, KS | True Up    |             |           |       |      | Mozz Nuggets        | 498.0 |         |      |             |              | 7     |              |      |                |               | 0                  |       |
+| True Up        |            | 2023-07-18 00:00:00 | EGS- Wallace, NC     | True Up    |             |           |       |      | Mozz Nuggets        | 321.0 |         |      |             |              | 7     |              |      |                |               | 0                  |       |
+| True Up        |            | 2023-07-18 00:00:00 | EGS- Kansas City, KS | True Up    |             |           |       |      | The Mozz Junior     | 31.0  |         |      |             |              | 7     |              |      |                |               | 0                  |       |
+
+        - **Column Name**: Order Received
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Order Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PickUp Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Location
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Production
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Destination
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Transport
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: BOL #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PO #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Product Description
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Cases 
+        - **Formula**: =5040/2
+        - **Dependencies**: None
+                
+        - **Column Name**: Pallets
+        - **Formula**: =ifna(K2(Cases )/vlookup(J2(Product Description),'Item List'!A:D,4,false),"")
+        - **Dependencies**: Item List
+                
+        - **Column Name**: FTL
+        - **Formula**: =ifna(L2(Pallets)/vlookup(J2(Product Description),'Item List'!A:F,6,false),"")
+        - **Dependencies**: Item List
+                
+        - **Column Name**: Product UPC
+        - **Formula**: =ifna(vlookup($J2(Product Description),'Item List'!$A:$C,3,false),"")
+        - **Dependencies**: Item List
+                
+        - **Column Name**: Product Code
+        - **Formula**: =ifna(vlookup($J2(Product Description),'Item List'!$A:$C,2,false),"")
+        - **Dependencies**: Item List
+                
+        - **Column Name**: Month
+        - **Formula**: =month(C2(PickUp Date))
+        - **Dependencies**: None
+                
+        - **Column Name**: Invoice Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: PO #
+        - **Formula**: =I89(PO #)
+        - **Dependencies**: None
+                
+        - **Column Name**: Invoice Number
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Total Invoice
+        - **Formula**: =-K102(Cases )*55.54
+        - **Dependencies**: None
+                
+        - **Column Name**: Invoice $ per Case
+        - **Formula**: =T2(Total Invoice)/K2(Cases )
+        - **Dependencies**: None
+                
+        - **Column Name**: Notes
+        - **Formula**: None
+        - **Dependencies**: None
+                
+Number of Tokens: 1334
+Sheet: Production by Month
+Number of tables: 0
+Number of Tokens: 7
+Sheet: Delivery by Month
+Number of tables: 10
+**Sheet: Delivery by Month**
+  **Table 1:**
+| 0           | 1         |
+|:------------|:----------|
+| FOODSERVICE | RETAIL    |
+| 434483      | 45016.8   |
+| 325899.94   | 68214.22  |
+| 323742.66   | 218851.6  |
+| 829064.72   | 92748.53  |
+| 1051050.04  | 308556.96 |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(L4(Unknown),J4(Unknown),B4(Unknown),C4(Unknown),D4(Unknown),E4(Unknown),F4(Unknown),I4(Unknown),N4(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(K4(Unknown),H4(Unknown),G4(Unknown))
+        - **Dependencies**: None
+                
+**Sheet: Delivery by Month**
+  **Table 1:**
+| 0           | 1         |
+|:------------|:----------|
+| FOODSERVICE | RETAIL    |
+| 434483      | 45016.8   |
+| 325899.94   | 68214.22  |
+| 323742.66   | 218851.6  |
+| 829064.72   | 92748.53  |
+| 1051050.04  | 308556.96 |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(L4(Unknown),J4(Unknown),B4(Unknown),C4(Unknown),D4(Unknown),E4(Unknown),F4(Unknown),I4(Unknown),N4(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(K4(Unknown),H4(Unknown),G4(Unknown))
+        - **Dependencies**: None
+                  **Table 2:**
+| 0           | 1      |
+|:------------|:-------|
+| FOODSERVICE | RETAIL |
+| -3990       | 0      |
+| -4760       | -2400  |
+| -6025       | -3500  |
+| -6561       | -2743  |
+| -5811       | -1080  |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(B23(Unknown),C23(Unknown),D23(Unknown),E23(Unknown),F23(Unknown),I23(Unknown),J23(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(M23(Unknown),L23(Unknown),K23(Unknown),H23(Unknown),G23(Unknown))
+        - **Dependencies**: None
+                
+**Sheet: Delivery by Month**
+  **Table 1:**
+| 0           | 1         |
+|:------------|:----------|
+| FOODSERVICE | RETAIL    |
+| 434483      | 45016.8   |
+| 325899.94   | 68214.22  |
+| 323742.66   | 218851.6  |
+| 829064.72   | 92748.53  |
+| 1051050.04  | 308556.96 |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(L4(Unknown),J4(Unknown),B4(Unknown),C4(Unknown),D4(Unknown),E4(Unknown),F4(Unknown),I4(Unknown),N4(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(K4(Unknown),H4(Unknown),G4(Unknown))
+        - **Dependencies**: None
+                  **Table 2:**
+| 0           | 1      |
+|:------------|:-------|
+| FOODSERVICE | RETAIL |
+| -3990       | 0      |
+| -4760       | -2400  |
+| -6025       | -3500  |
+| -6561       | -2743  |
+| -5811       | -1080  |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(B23(Unknown),C23(Unknown),D23(Unknown),E23(Unknown),F23(Unknown),I23(Unknown),J23(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(M23(Unknown),L23(Unknown),K23(Unknown),H23(Unknown),G23(Unknown))
+        - **Dependencies**: None
+                  **Table 3:**
+| 0            |      1 |         2 |         3 |       4 |         5 |         6 |        7 |        8 |   9 |   10 |      11 |      12 |   13 |            14 |     15 |     16 |
+|:-------------|-------:|----------:|----------:|--------:|----------:|----------:|---------:|---------:|----:|-----:|--------:|--------:|-----:|--------------:|-------:|-------:|
+|              |  55.54 |     59.86 |     55.54 |    43.5 |     55.54 |     31.56 |    31.56 |    39.18 | nan |  nan |   31.56 |   31.56 |  nan | nan           |    nan |    nan |
+| Amount - Dec | nan    | 178922    | 241655    | 11310   | 247153    | 443386    | 79215.6  | 83453.4  |   0 |    0 | 5680.8  | 3976.56 |    0 |   1.29475e+06 | 762492 | 532259 |
+
+        - **Column Name**: Amount - Dec
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 59.86
+        - **Formula**: =sum(C39(Unknown))*-1*C$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: =sum(D39(Unknown))*-1*D$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 43.5
+        - **Formula**: =sum(E39(Unknown))*-1*E$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: =sum(F39(Unknown))*-1*F$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(G39(Unknown))*-1*G$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(H39(Unknown))*-1*H$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 39.18
+        - **Formula**: =sum(I39(Unknown))*-1*I$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(J39(Unknown))*-1*J$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(K39(Unknown))*-1*K$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(L39(Unknown))*-1*L$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(M39(Unknown))*-1*M$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(N39(Unknown))*-1*N$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(P45(nan):Q45(nan))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(B45(55.54),C45(59.86),D45(55.54),E45(43.5),F45(55.54),I45(39.18),J45(nan))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(M45(31.56),L45(31.56),K45(nan),H45(31.56),G45(31.56))
+        - **Dependencies**: None
+                
+**Sheet: Delivery by Month**
+  **Table 1:**
+| 0           | 1         |
+|:------------|:----------|
+| FOODSERVICE | RETAIL    |
+| 434483      | 45016.8   |
+| 325899.94   | 68214.22  |
+| 323742.66   | 218851.6  |
+| 829064.72   | 92748.53  |
+| 1051050.04  | 308556.96 |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(L4(Unknown),J4(Unknown),B4(Unknown),C4(Unknown),D4(Unknown),E4(Unknown),F4(Unknown),I4(Unknown),N4(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(K4(Unknown),H4(Unknown),G4(Unknown))
+        - **Dependencies**: None
+                  **Table 2:**
+| 0           | 1      |
+|:------------|:-------|
+| FOODSERVICE | RETAIL |
+| -3990       | 0      |
+| -4760       | -2400  |
+| -6025       | -3500  |
+| -6561       | -2743  |
+| -5811       | -1080  |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(B23(Unknown),C23(Unknown),D23(Unknown),E23(Unknown),F23(Unknown),I23(Unknown),J23(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(M23(Unknown),L23(Unknown),K23(Unknown),H23(Unknown),G23(Unknown))
+        - **Dependencies**: None
+                  **Table 3:**
+| 0            |      1 |         2 |         3 |       4 |         5 |         6 |        7 |        8 |   9 |   10 |      11 |      12 |   13 |            14 |     15 |     16 |
+|:-------------|-------:|----------:|----------:|--------:|----------:|----------:|---------:|---------:|----:|-----:|--------:|--------:|-----:|--------------:|-------:|-------:|
+|              |  55.54 |     59.86 |     55.54 |    43.5 |     55.54 |     31.56 |    31.56 |    39.18 | nan |  nan |   31.56 |   31.56 |  nan | nan           |    nan |    nan |
+| Amount - Dec | nan    | 178922    | 241655    | 11310   | 247153    | 443386    | 79215.6  | 83453.4  |   0 |    0 | 5680.8  | 3976.56 |    0 |   1.29475e+06 | 762492 | 532259 |
+
+        - **Column Name**: Amount - Dec
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 59.86
+        - **Formula**: =sum(C39(Unknown))*-1*C$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: =sum(D39(Unknown))*-1*D$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 43.5
+        - **Formula**: =sum(E39(Unknown))*-1*E$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: =sum(F39(Unknown))*-1*F$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(G39(Unknown))*-1*G$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(H39(Unknown))*-1*H$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 39.18
+        - **Formula**: =sum(I39(Unknown))*-1*I$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(J39(Unknown))*-1*J$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(K39(Unknown))*-1*K$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(L39(Unknown))*-1*L$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(M39(Unknown))*-1*M$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(N39(Unknown))*-1*N$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(P45(nan):Q45(nan))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(B45(55.54),C45(59.86),D45(55.54),E45(43.5),F45(55.54),I45(39.18),J45(nan))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(M45(31.56),L45(31.56),K45(nan),H45(31.56),G45(31.56))
+        - **Dependencies**: None
+                  **Table 4:**
+| 0                                        |
+|:-----------------------------------------|
+| DOLLARS DELIVERY BY MONTH -- FOODSERVICE |
+
+        - **Column Name**: DOLLARS DELIVERY BY MONTH -- FOODSERVICE
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: Delivery by Month**
+  **Table 1:**
+| 0           | 1         |
+|:------------|:----------|
+| FOODSERVICE | RETAIL    |
+| 434483      | 45016.8   |
+| 325899.94   | 68214.22  |
+| 323742.66   | 218851.6  |
+| 829064.72   | 92748.53  |
+| 1051050.04  | 308556.96 |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(L4(Unknown),J4(Unknown),B4(Unknown),C4(Unknown),D4(Unknown),E4(Unknown),F4(Unknown),I4(Unknown),N4(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(K4(Unknown),H4(Unknown),G4(Unknown))
+        - **Dependencies**: None
+                  **Table 2:**
+| 0           | 1      |
+|:------------|:-------|
+| FOODSERVICE | RETAIL |
+| -3990       | 0      |
+| -4760       | -2400  |
+| -6025       | -3500  |
+| -6561       | -2743  |
+| -5811       | -1080  |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(B23(Unknown),C23(Unknown),D23(Unknown),E23(Unknown),F23(Unknown),I23(Unknown),J23(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(M23(Unknown),L23(Unknown),K23(Unknown),H23(Unknown),G23(Unknown))
+        - **Dependencies**: None
+                  **Table 3:**
+| 0            |      1 |         2 |         3 |       4 |         5 |         6 |        7 |        8 |   9 |   10 |      11 |      12 |   13 |            14 |     15 |     16 |
+|:-------------|-------:|----------:|----------:|--------:|----------:|----------:|---------:|---------:|----:|-----:|--------:|--------:|-----:|--------------:|-------:|-------:|
+|              |  55.54 |     59.86 |     55.54 |    43.5 |     55.54 |     31.56 |    31.56 |    39.18 | nan |  nan |   31.56 |   31.56 |  nan | nan           |    nan |    nan |
+| Amount - Dec | nan    | 178922    | 241655    | 11310   | 247153    | 443386    | 79215.6  | 83453.4  |   0 |    0 | 5680.8  | 3976.56 |    0 |   1.29475e+06 | 762492 | 532259 |
+
+        - **Column Name**: Amount - Dec
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 59.86
+        - **Formula**: =sum(C39(Unknown))*-1*C$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: =sum(D39(Unknown))*-1*D$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 43.5
+        - **Formula**: =sum(E39(Unknown))*-1*E$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: =sum(F39(Unknown))*-1*F$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(G39(Unknown))*-1*G$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(H39(Unknown))*-1*H$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 39.18
+        - **Formula**: =sum(I39(Unknown))*-1*I$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(J39(Unknown))*-1*J$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(K39(Unknown))*-1*K$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(L39(Unknown))*-1*L$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(M39(Unknown))*-1*M$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(N39(Unknown))*-1*N$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(P45(nan):Q45(nan))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(B45(55.54),C45(59.86),D45(55.54),E45(43.5),F45(55.54),I45(39.18),J45(nan))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(M45(31.56),L45(31.56),K45(nan),H45(31.56),G45(31.56))
+        - **Dependencies**: None
+                  **Table 4:**
+| 0                                        |
+|:-----------------------------------------|
+| DOLLARS DELIVERY BY MONTH -- FOODSERVICE |
+
+        - **Column Name**: DOLLARS DELIVERY BY MONTH -- FOODSERVICE
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 5:**
+| 0                                   |
+|:------------------------------------|
+| DOLLARS DELIVERY BY MONTH -- RETAIL |
+
+        - **Column Name**: DOLLARS DELIVERY BY MONTH -- RETAIL
+        - **Formula**: None
+        - **Dependencies**: None
+                
+**Sheet: Delivery by Month**
+  **Table 1:**
+| 0           | 1         |
+|:------------|:----------|
+| FOODSERVICE | RETAIL    |
+| 434483      | 45016.8   |
+| 325899.94   | 68214.22  |
+| 323742.66   | 218851.6  |
+| 829064.72   | 92748.53  |
+| 1051050.04  | 308556.96 |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(L4(Unknown),J4(Unknown),B4(Unknown),C4(Unknown),D4(Unknown),E4(Unknown),F4(Unknown),I4(Unknown),N4(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(K4(Unknown),H4(Unknown),G4(Unknown))
+        - **Dependencies**: None
+                  **Table 2:**
+| 0           | 1      |
+|:------------|:-------|
+| FOODSERVICE | RETAIL |
+| -3990       | 0      |
+| -4760       | -2400  |
+| -6025       | -3500  |
+| -6561       | -2743  |
+| -5811       | -1080  |
+
+        - **Column Name**: FOODSERVICE
+        - **Formula**: =sum(B23(Unknown),C23(Unknown),D23(Unknown),E23(Unknown),F23(Unknown),I23(Unknown),J23(Unknown))
+        - **Dependencies**: None
+                
+        - **Column Name**: RETAIL
+        - **Formula**: =sum(M23(Unknown),L23(Unknown),K23(Unknown),H23(Unknown),G23(Unknown))
+        - **Dependencies**: None
+                  **Table 3:**
+| 0            |      1 |         2 |         3 |       4 |         5 |         6 |        7 |        8 |   9 |   10 |      11 |      12 |   13 |            14 |     15 |     16 |
+|:-------------|-------:|----------:|----------:|--------:|----------:|----------:|---------:|---------:|----:|-----:|--------:|--------:|-----:|--------------:|-------:|-------:|
+|              |  55.54 |     59.86 |     55.54 |    43.5 |     55.54 |     31.56 |    31.56 |    39.18 | nan |  nan |   31.56 |   31.56 |  nan | nan           |    nan |    nan |
+| Amount - Dec | nan    | 178922    | 241655    | 11310   | 247153    | 443386    | 79215.6  | 83453.4  |   0 |    0 | 5680.8  | 3976.56 |    0 |   1.29475e+06 | 762492 | 532259 |
+
+        - **Column Name**: Amount - Dec
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 59.86
+        - **Formula**: =sum(C39(Unknown))*-1*C$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: =sum(D39(Unknown))*-1*D$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 43.5
+        - **Formula**: =sum(E39(Unknown))*-1*E$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 55.54
+        - **Formula**: =sum(F39(Unknown))*-1*F$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(G39(Unknown))*-1*G$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(H39(Unknown))*-1*H$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 39.18
+        - **Formula**: =sum(I39(Unknown))*-1*I$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(J39(Unknown))*-1*J$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(K39(Unknown))*-1*K$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(L39(Unknown))*-1*L$44
+        - **Dependencies**: None
+                
+        - **Column Name**: 31.56
+        - **Formula**: =sum(M39(Unknown))*-1*M$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(N39(Unknown))*-1*N$44
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(P45(nan):Q45(nan))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(B45(55.54),C45(59.86),D45(55.54),E45(43.5),F45(55.54),I45(39.18),J45(nan))
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =sum(M45(31.56),L45(31.56),K45(nan),H45(31.56),G45(31.56))
+        - **Dependencies**: None
+                  **Table 4:**
+| 0                                        |
+|:-----------------------------------------|
+| DOLLARS DELIVERY BY MONTH -- FOODSERVICE |
+
+        - **Column Name**: DOLLARS DELIVERY BY MONTH -- FOODSERVICE
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 5:**
+| 0                                   |
+|:------------------------------------|
+| DOLLARS DELIVERY BY MONTH -- RETAIL |
+
+        - **Column Name**: DOLLARS DELIVERY BY MONTH -- RETAIL
+        - **Formula**: None
+        - **Dependencies**: None
+                  **Table 6:**
+| 0                                 |
+|:----------------------------------|
+| CASES DELIVERY BY MONTH -- RETAIL |
+
+        - **Column Name**: CASES DELIVERY BY MONTH -- RETAIL
+        - **Formula**: None
+        - **Dependencies**: None
+                
+Number of Tokens: 1592
+Sheet: Inventory - Monthly NEW
+Number of tables: 1
+**Sheet: Inventory - Monthly NEW**
+  **Table 1:**
+| 0                                                       | 1    | 2          | 3                   | 4                   | 5                   | 6                   | 7                   |
+|:--------------------------------------------------------|:-----|:-----------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|
+| DOES NOT INCLUDE PRODUCTION OR DELIVERY FROM RITE STUFF |      |            |                     |                     |                     | NaT                 |                     |
+| Description                                             |      |            | 2024-01-01 00:00:00 | 2024-02-01 00:00:00 | 2024-03-01 00:00:00 | 2024-04-01 00:00:00 | 2024-04-30 00:00:00 |
+| CP Big Mozz Sticks                                      | #N/A | Starting   | 130                 | 1559.0              | 1.0                 | NaT                 | 1224.0              |
+|                                                         |      | Production | 5718.0              | 0.0                 |                     | NaT                 |                     |
+|                                                         |      | Delivery   | -5590.0             | -1558.0             |                     | NaT                 |                     |
+| CP The Mozz Junior                                      | #N/A | Starting   | 426                 | 3546.0              | 3546.0              | NaT                 | 5048.0              |
+
+        - **Column Name**: DOES NOT INCLUDE PRODUCTION OR DELIVERY FROM RITE STUFF
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: nan
+        - **Formula**: =vlookup(A4(DOES NOT INCLUDE PRODUCTION OR DELIVERY FROM RITE STUFF),'Item List'!A:C,2,false)
+        - **Dependencies**: Item List
+                
+        - **Column Name**: Starting
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-01-01 00:00:00
+        - **Formula**: =sum(E4(2024-02-01 00:00:00):F4(2024-03-01 00:00:00),D5(2024-01-01 00:00:00):E6(2024-02-01 00:00:00))
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-02-01 00:00:00
+        - **Formula**: =sum(D10(2024-01-01 00:00:00):D12(2024-01-01 00:00:00))
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-03-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-04-01 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: 2024-04-30 00:00:00
+        - **Formula**: None
+        - **Dependencies**: None
+                
+Number of Tokens: 730
+Sheet: Item List
+Number of tables: 1
+**Sheet: Item List**
+  **Table 1:**
+| 0     |
+|:------|
+| #REF! |
+
+        - **Column Name**: nan
+        - **Formula**: =IFERROR(__xludf.DUMMYFUNCTION("IMPORTRANGE(""https://docs.google.com/spreadsheets/d/11o2iEhkjKpHigHzvgQWiSZOP0As_tE5(Unknown)dvsHELGUZugk"",""Items!A:U"")"),"#REF!")
+        - **Dependencies**: None
+                
+Number of Tokens: 121
+Sheet: Invoice Tracker(TK)
+Number of tables: 1
+**Sheet: Invoice Tracker(TK)**
+  **Table 1:**
+| 0                   | 1          | 2     | 3                   | 4         | 5            | 6                    | 7                 | 8           | 9        |
+|:--------------------|:-----------|:------|:--------------------|:----------|:-------------|:---------------------|:------------------|:------------|:---------|
+| Ship Date           | PO #       | Cases | Product Description | Invoice # | Invoice Date | Location             | Type              | Description | BOL #    |
+| #REF!               | #REF!      | #REF! | #REF!               |           |              | #REF!                | #REF!             | #REF!       | #REF!    |
+| 2024-01-10 00:00:00 |            | -50   | CP Mozz Nuggets     |           |              | Flexcold             | Transfer          | HMB         | 20000284 |
+| 2024-01-11 00:00:00 | 913417-001 | -1300 | CP Big Mozz Sticks  |           |              | Comarco Products     | Customer Delivery | JB Hunt     | 20000279 |
+| 2023-07-18 00:00:00 |            | 531   | Big Mozz Sticks     |           |              | EGS- Kansas City, KS | True Up           |             |          |
+| 2023-07-18 00:00:00 |            | 440   | Big Mozz Sticks     |           |              | EGS- Wallace, NC     | True Up           |             |          |
+
+        - **Column Name**: Ship Date
+        - **Formula**: =#REF!
+        - **Dependencies**: None
+                
+        - **Column Name**: PO #
+        - **Formula**: =#REF!
+        - **Dependencies**: None
+                
+        - **Column Name**: Cases 
+        - **Formula**: =#REF!
+        - **Dependencies**: None
+                
+        - **Column Name**: Product Description
+        - **Formula**: =#REF!
+        - **Dependencies**: None
+                
+        - **Column Name**: Invoice #
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Invoice Date
+        - **Formula**: None
+        - **Dependencies**: None
+                
+        - **Column Name**: Location
+        - **Formula**: =#REF!
+        - **Dependencies**: None
+                
+        - **Column Name**: Type
+        - **Formula**: =#REF!
+        - **Dependencies**: None
+                
+        - **Column Name**: Description
+        - **Formula**: =#REF!
+        - **Dependencies**: None
+                
+        - **Column Name**: BOL #
+        - **Formula**: =#REF!
+        - **Dependencies**: None
+                
+Number of Tokens: 638
+Total Tokens: 20031

@@ -1,0 +1,15 @@
+# Ignore all files in Company folders
+Company 1 - Inventory Planning/
+Company 1 - Inventory Planning.csv
+Company 1 - Inventory Planning1.csv
+Company 2 - Supply Management1/
+Company 2 - Supply Management.csv
+Company 3 - Inventory Dashboard _V2/
+Company 3 - Inventory Dashboard _V2.1/
+Company 3 - Inventory Dashboard _V2.csv
+Company 3 - Inventory Dashboard _V2_1.csv
+Company 1 - Inventory Planning1/
+Company 2 - Supply Management/
+Company 3 - Inventory Dashboard _V2_1
+# To be extra safe, also ignore all CSV files
+*.csv

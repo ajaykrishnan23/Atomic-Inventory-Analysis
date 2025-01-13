@@ -1,0 +1,87 @@
+Modules:
+
+Table Detection
+    Handle horizontal vs vertical
+    club tables with gaps together if they have same start and end col (done)
+
+Formula extraction
+    remove redundant formulas 
+
+Column extraction for formulas
+    make it work across columns 
+    cross sheet references 
+
+
+LLM
+    - Pass each table into LLM
+        1.Ask it to detect SKU, Location/Warehouse, Quantity information (boolean)
+        2. Ask it to check if this is about inventory management (boolean)
+
+        1 if 1:
+            1. Pass table and metadata through llm and identify specific data ranges by their column labels and formulas and explanations
+        
+        
+        Get explanation of all tables 
+
+
+Final output:
+    Sheets with 1.1 
+    Tables with 1 in them and their information (formulas, description,etc)
+
+    Descriptions for all the other sheets 
+
+    A general text overview of all the tables and formulas and metadata (done) 
+
+Next Steps:
+    1. Create an agent to read the full sheet
+    2. write its own code to extract the tables and formulas (only subsection of tables is fine)
+    3. 
+
+Prompt:
+
+you are a sales engineer for an inventory planning company with a great skill at paying attention to detail. Given this data can you tell me if this is related to 
+inventory on hand by SKU, SKUs, sales history, sales forecast, warehouse/location, quantity
+
+First answer if the data i sent is related or no 
+If yes, 
+Extract the right column names associated to these in a dictionary format 
+Also try to identify data ranges by column labels and formula if it is a known formula 
+
+
+New:
+Fully agentic approach
+
+Module 1:
+Scrape tables from excel by generating custom code
+
+Module 2:
+Verify if table is related to inventory
+
+Module 3:
+Formula Extraction and validation
+
+Issues to be handled:
+Times when the num tokens goes > 128k
+Pivot Tables
+
+
+
+
+
+Testing Notebook.ipynb
+    Testing a more heurestic approach
+        Identify tables by blank rows and then extract them
+        Do the same for formulas and column names
+
+NewApproach.ipynb 
+    Testing a more heurestic approach pt.2
+        Fetch coordinates of the tables and use that to extract the tables
+        Perform the same for formulas and column names, 
+        perform table merging if tables are one below another with same dimensions,
+        Perform formula reconciliation if mentions in the same sheet 
+
+Pass_thru_llm.ipynb
+    Agentic Approach
+        
+        Table Extraction:
+            2 agents, one to 
