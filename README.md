@@ -161,5 +161,4 @@ The notebooks are present for me experimenting with different approaches only, d
     - Table extraction works intuitively
     - But the LLM Has not yet "Understood" the data to properly pick out the business logic I feel
         - I can get this done if I have a clear understanding of what the Sales Engineers look for by business logic 
-    - Bringing in Feeback into code failures and json formatting failures 
     - Better logging (Logging all events + Cost)
